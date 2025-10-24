@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shardeum/.github/raw/dev/shardeum-white-bg.png" alt="Shardeum Logo" width="70%">
+  <img src="https://github.com/shardeum/.github/raw/dev/shardeum-white-bg.png" alt="Shardeum Logo" width="80%">
 </p>
 
 <p align="center">
