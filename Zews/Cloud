@@ -132,4 +132,5 @@ npm run restart
 - Test with local network before submitting PRs
 - Follow existing code patterns and structure
 - Check `ShardeumFlags` for debug/development features
-- Network genesis configs determine initial state
+- Network genesis configs determine initial state 
+to cloud
