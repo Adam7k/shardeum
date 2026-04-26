@@ -133,3 +133,4 @@ npm run restart
 - Follow existing code patterns and structure
 - Check `ShardeumFlags` for debug/development features
 - Network genesis configs determine initial state
+to to tree
